@@ -1,2 +1,2 @@
-# easySignUp
-Hey folks, This is a Sign up form made with the help HTML, CSS and JS.
+# easySignUp 
+Responsive signup form with form validation using HTML, CSS and Javascript
